@@ -1,4 +1,4 @@
-# Create and configure ec2 with iam-roles and https using aws cdk
+# Create and configure ec2 with iam-roles and httpd using aws cdk
 
 ## What is aws-cdk? 
 read more here  [aws-cdk](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
